@@ -10,6 +10,10 @@ For context, [riverpod package](https://pub.dev/packages/riverpod) is a more rec
 [simple app state management
 tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple) article.
 
+<div align="center">
+    <img src="skeleton_riverpod.png" width="200px"</img> 
+</div>
+
 ## Getting Started
 
 For help getting started with Flutter, view our
